@@ -2,3 +2,5 @@ Belajar NGODING
 - Konsisten belajar setiap hari
 - Belajar PHP
 - Belajar HTML dan CSS
+- Belajar Laravel
+- Belajar Design 
